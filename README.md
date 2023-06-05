@@ -1,4 +1,4 @@
-# Student Management System Using VB.Net And MS Access
+# Student Management System Using VB.Net And Microsoft Access
 
 The Student Management System is a simple application developed in Visual Basic (VB) that allows for the management of student records. It provides functionalities for inserting, viewing, updating, and deleting student information.
 
