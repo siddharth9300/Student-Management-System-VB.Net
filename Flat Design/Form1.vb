@@ -153,7 +153,7 @@ Public Class Form1
     End Sub
 
     Private Sub btnReport_Click(sender As Object, e As EventArgs) Handles btnReport.Click
-        Dim url As String = "https://www.google.com"  ' Replace with your desired web link
+        Dim url As String = "https://github.com/siddharth9300/Student-Management-System-VB.Net/blob/master/Siddharth%20Jain%20Project%20Report.pdf"  ' Replace with your desired web link
         System.Diagnostics.Process.Start(url)
     End Sub
 End Class
