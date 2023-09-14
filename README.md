@@ -35,5 +35,5 @@ Contributions to the Student Management System project are welcome! If you find 
   
 
 ## License
-[MIT License](LICENSE)
+[GNU GENERAL PUBLIC LICENSE](LICENSE)
 
