@@ -32,4 +32,8 @@ Contributions to the Student Management System project are welcome! If you find 
 ## Authors
 
 - [@siddharth9300](https://www.github.com/siddharth9300)
+  
+
+## License
+[MIT License](LICENSE)
 
