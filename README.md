@@ -3,6 +3,11 @@
 The Student Management System is a simple application developed in Visual Basic (VB) that allows for the management of student records. It provides functionalities for inserting, viewing, updating, and deleting student information.
 
 
+## Screenshot
+<img  height="350" src="Student Management(1)"  />
+<img  height="350" src="Student Management(2)"  />
+<img  height="350" src="Student Management(3)"  />
+
 
 ## Features
 
