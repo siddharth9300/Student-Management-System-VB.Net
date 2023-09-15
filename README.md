@@ -4,9 +4,9 @@ The Student Management System is a simple application developed in Visual Basic 
 
 
 ## Screenshot
-<img  height="350" src="Student Management(1)"  />
-<img  height="350" src="Student Management(2)"  />
-<img  height="350" src="Student Management(3)"  />
+<img  height="350" src="Student Management(1).png"  />
+<img  height="350" src="Student Management(2).png"  />
+<img  height="350" src="Student Management(3).png"  />
 
 
 ## Features
